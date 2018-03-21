@@ -13,5 +13,4 @@ Instructions:
 3. Deploy onto android device.
 The instructions above were successfully run using Android Studio version 3.01. 
 
-* Note: As of the writing the github repository that hosts this is private. It may become public in the future. If you want access to it please contact: 
-Joseph Venetucci venetuc@pdx.edu
+
